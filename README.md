@@ -144,5 +144,8 @@ Paramiko
 -	Understanding how to parse XML files for reports 
 -	Understanding how to create a Python class 
 	
-
+<b>Requirement<b>
+Students must bring their own laptop and have admin/root access on it. <b>
+The laptop should have at least 4 GB RAM and 20 GB of free disk space <b>
+a Virtual machine (e.g. VMware Workstation/Fusion/Player or Virtual Box).
 
